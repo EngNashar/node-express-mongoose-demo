@@ -27,6 +27,7 @@ Want to build something from scratch? use the [boilerplate](https://github.com/m
 
 ```sh
 git clone https://github.com/engnashar/node-express-mongoose-demo.git
+cd node-express-mongoose-demo
 npm install
 cp .env.example .env
 npm start
